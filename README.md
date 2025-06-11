@@ -52,6 +52,11 @@
 
 但是在提交 PR 以前 **请** 仔细阅读[内容贡献指引](CONTRIBUTING.md)。
 
+## 原作者git地址
+
+多多关注原作者，获取及时更新
+[You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 ## 许可 & 版权
 
 The materials herein are all (c) 2013-2016 Kyle Simpson.
